@@ -1,0 +1,6 @@
+C:\Users\Andreas\source\repos\Formulatrix.OOT\Formulatrix.OOT.Common\bin\Debug\Formulatrix.OOT.Common.dll
+C:\Users\Andreas\source\repos\Formulatrix.OOT\Formulatrix.OOT.Common\bin\Debug\Formulatrix.OOT.Common.pdb
+C:\Users\Andreas\source\repos\Formulatrix.OOT\Formulatrix.OOT.Common\obj\Debug\Formulatrix.OOT.Common.csprojAssemblyReference.cache
+C:\Users\Andreas\source\repos\Formulatrix.OOT\Formulatrix.OOT.Common\obj\Debug\Formulatrix.OOT.Common.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\Formulatrix.OOT\Formulatrix.OOT.Common\obj\Debug\Formulatrix.OOT.Common.dll
+C:\Users\Andreas\source\repos\Formulatrix.OOT\Formulatrix.OOT.Common\obj\Debug\Formulatrix.OOT.Common.pdb

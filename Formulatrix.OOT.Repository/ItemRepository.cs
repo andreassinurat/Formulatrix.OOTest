@@ -74,7 +74,7 @@ namespace Formulatrix.OOT.Repository
 
         public string Retrieve(string itemName)
         {
-            string result = string.Empty;
+            string result = null;
 
             try
             {
