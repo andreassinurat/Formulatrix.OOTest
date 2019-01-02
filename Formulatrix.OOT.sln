@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulatrix.OOT.Common", "Formulatrix.OOT.Common\Formulatrix.OOT.Common.csproj", "{990DE2E6-2EAC-4441-80C1-5147FC8CA865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulatrix.OOT.Repository", "Formulatrix.OOT.Repository\Formulatrix.OOT.Repository.csproj", "{4A0F271C-04EB-4B45-A530-B97CA8A2FDB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{990DE2E6-2EAC-4441-80C1-5147FC8CA865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990DE2E6-2EAC-4441-80C1-5147FC8CA865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990DE2E6-2EAC-4441-80C1-5147FC8CA865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990DE2E6-2EAC-4441-80C1-5147FC8CA865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0F271C-04EB-4B45-A530-B97CA8A2FDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0F271C-04EB-4B45-A530-B97CA8A2FDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0F271C-04EB-4B45-A530-B97CA8A2FDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0F271C-04EB-4B45-A530-B97CA8A2FDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37B8B36F-E6F0-4908-95D2-EC97A7577AAA}
+	EndGlobalSection
+EndGlobal
